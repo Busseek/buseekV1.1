@@ -28,4 +28,6 @@
     "@types/bcryptjs": "^2.4.6",
     "@types/cookie-parser": "^1.4.7",
     "@types/express": "^4.17.21",
-    "@types/js
+    "@types/node": "^20.0.0"
+  }
+}
